@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-excuta-o-projeto">Executar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-excuta-projeto">Executar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 
   
@@ -36,7 +36,7 @@
 <li>CSS3</li>
 <li>JavaScript</li>
 
-## 🧩 Executar o Projeto
+## 🧩 Executar Projeto
 
 <a href="https://matheeusaraujo.github.io/conversor-moedas/">Ver Projeto Online</a>
 
