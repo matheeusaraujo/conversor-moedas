@@ -3,7 +3,7 @@
 <p>Este é um projeto de <b>Conversor de Moedas</b> desenvolvido para facilitar a conversão entre diferentes moedas, utilizando uma interface simples e amigável.</p>
 <br>
 <h2>🖼️ Captura de Tela</h2>
-<img src="https://github.com/matheeusaraujo/conversor-moedas/blob/master/readme.png">
+<img src="https://github.com/matheeusaraujo/conversor-moedas/blob/master/readme.png" width="800">
 <br>
 <h2> 🚀 Funcionalidades</h2>
 <li><b>Conversão Rápida e Intuitiva:</b> Insira o valor, selecione as moedas de origem e destino, e veja a conversão instantaneamente.</li>
