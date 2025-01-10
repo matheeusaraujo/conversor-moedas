@@ -5,6 +5,9 @@
 <p align="center">
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-excuta-o-projeto">Executar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+
   
 </p>
 
@@ -32,5 +35,15 @@
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
+
+## 🧩 Executar o Projeto
+
+<a href="https://matheeusaraujo.github.io/conversor-moedas/">Ver Projeto Online</a>
+
+<br>
+
+## 📜 Licença
+
+<p>Este projeto está licenciado sob a licença MIT.</p>
 
 
