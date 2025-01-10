@@ -40,7 +40,6 @@
 
 <a href="https://matheeusaraujo.github.io/conversor-moedas/">Ver Projeto Online</a>
 
-<br>
 
 ## 📜 Licença
 
